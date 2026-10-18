@@ -15,6 +15,7 @@ env/
 .env
 .env.*
 *.key
+.streamlit/secrets.toml
 
 # OS / editor
 .DS_Store

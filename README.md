@@ -18,6 +18,7 @@ top of the original notebooks:
 ├── requirements.txt
 ├── Tutorial1.ipynb            # Original notebook (unchanged)
 ├── Tutorial1_fixed.ipynb      # Corrected notebook (unchanged)
+├── PROJECT_LOG.md             # Record of setup, changes and verification
 └── README.md
 ```
 

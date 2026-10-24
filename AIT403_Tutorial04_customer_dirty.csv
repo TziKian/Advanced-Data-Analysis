@@ -1,0 +1,9 @@
+CustomerID,Age,Gender,City,Income,JoinDate,Subscribed,Spend
+C001,29,Female,Kuala Lumpur,4500,2026-01-05,Yes,120.5
+C002,,male ,KL,5200,05/01/2026,Y,98.0
+C003,999,FEMALE,Penang,6100,2026/01/06,No,110.0
+C004,41,M,Johor Bahru,-,2026-01-07,1,105.0
+C005,35,female,Johor Bahru,7200,07-01-2026,0,850.0
+C006,38,Male,Kuala lumpur,6800,2026-01-08,Yes,115.0
+C006,38,Male,Kuala lumpur,6800,2026-01-08,Yes,115.0
+C007,31,male,Penang,5900,,N,102.0
